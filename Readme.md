@@ -4,4 +4,6 @@ We use MLFLOW to link different components
 
 We use HYDRA for configuration management
 
-We link all the abbove tools
+We link all the above tools
+
+Here agenda is how to link different components of Mlops.
